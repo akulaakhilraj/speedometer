@@ -1,0 +1,40 @@
+.image-container {
+  height: 50%;
+  width: 50%;
+}
+
+.container {
+  height: 100vh;
+  background-color: black;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  margin: 20px;
+}
+
+.para {
+  font-size: 26px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
+
+.para1 {
+  font-size: 16px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
+.image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
